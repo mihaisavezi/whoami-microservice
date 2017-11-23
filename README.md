@@ -1,1 +1,1 @@
-# whoami-microservice
+# Backend Challenges boilerplate - package.json
